@@ -1,0 +1,12 @@
+C:\Users\ellio\Documents\edabit\Distance_To_Nearest_Vowel\Distance_To_Nearest_Vowel\bin\Debug\Distance_To_Nearest_Vowel.exe.config
+C:\Users\ellio\Documents\edabit\Distance_To_Nearest_Vowel\Distance_To_Nearest_Vowel\bin\Debug\Distance_To_Nearest_Vowel.exe
+C:\Users\ellio\Documents\edabit\Distance_To_Nearest_Vowel\Distance_To_Nearest_Vowel\bin\Debug\Distance_To_Nearest_Vowel.pdb
+C:\Users\ellio\Documents\edabit\Distance_To_Nearest_Vowel\Distance_To_Nearest_Vowel\bin\Debug\Distance_To_Nearest_Vowel.xml
+C:\Users\ellio\Documents\edabit\Distance_To_Nearest_Vowel\Distance_To_Nearest_Vowel\obj\Debug\Distance_To_Nearest_Vowel.vbproj.AssemblyReference.cache
+C:\Users\ellio\Documents\edabit\Distance_To_Nearest_Vowel\Distance_To_Nearest_Vowel\obj\Debug\Distance_To_Nearest_Vowel.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ellio\Documents\edabit\Distance_To_Nearest_Vowel\Distance_To_Nearest_Vowel\obj\Debug\Distance_To_Nearest_Vowel.Resources.resources
+C:\Users\ellio\Documents\edabit\Distance_To_Nearest_Vowel\Distance_To_Nearest_Vowel\obj\Debug\Distance_To_Nearest_Vowel.vbproj.GenerateResource.cache
+C:\Users\ellio\Documents\edabit\Distance_To_Nearest_Vowel\Distance_To_Nearest_Vowel\obj\Debug\Distance_To_Nearest_Vowel.vbproj.CoreCompileInputs.cache
+C:\Users\ellio\Documents\edabit\Distance_To_Nearest_Vowel\Distance_To_Nearest_Vowel\obj\Debug\Distance_To_Nearest_Vowel.exe
+C:\Users\ellio\Documents\edabit\Distance_To_Nearest_Vowel\Distance_To_Nearest_Vowel\obj\Debug\Distance_To_Nearest_Vowel.xml
+C:\Users\ellio\Documents\edabit\Distance_To_Nearest_Vowel\Distance_To_Nearest_Vowel\obj\Debug\Distance_To_Nearest_Vowel.pdb

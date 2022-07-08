@@ -1,0 +1,11 @@
+C:\Users\ellio\Documents\edabit\Farey\Farey\bin\Debug\Farey.exe.config
+C:\Users\ellio\Documents\edabit\Farey\Farey\bin\Debug\Farey.exe
+C:\Users\ellio\Documents\edabit\Farey\Farey\bin\Debug\Farey.pdb
+C:\Users\ellio\Documents\edabit\Farey\Farey\bin\Debug\Farey.xml
+C:\Users\ellio\Documents\edabit\Farey\Farey\obj\Debug\Farey.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ellio\Documents\edabit\Farey\Farey\obj\Debug\Farey.Resources.resources
+C:\Users\ellio\Documents\edabit\Farey\Farey\obj\Debug\Farey.vbproj.GenerateResource.cache
+C:\Users\ellio\Documents\edabit\Farey\Farey\obj\Debug\Farey.vbproj.CoreCompileInputs.cache
+C:\Users\ellio\Documents\edabit\Farey\Farey\obj\Debug\Farey.exe
+C:\Users\ellio\Documents\edabit\Farey\Farey\obj\Debug\Farey.xml
+C:\Users\ellio\Documents\edabit\Farey\Farey\obj\Debug\Farey.pdb

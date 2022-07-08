@@ -1,0 +1,11 @@
+C:\Users\ellio\Documents\edabit\Col_With_Largest_Sum\Col_With_Largest_Sum\bin\Debug\Col_With_Largest_Sum.exe.config
+C:\Users\ellio\Documents\edabit\Col_With_Largest_Sum\Col_With_Largest_Sum\bin\Debug\Col_With_Largest_Sum.exe
+C:\Users\ellio\Documents\edabit\Col_With_Largest_Sum\Col_With_Largest_Sum\bin\Debug\Col_With_Largest_Sum.pdb
+C:\Users\ellio\Documents\edabit\Col_With_Largest_Sum\Col_With_Largest_Sum\bin\Debug\Col_With_Largest_Sum.xml
+C:\Users\ellio\Documents\edabit\Col_With_Largest_Sum\Col_With_Largest_Sum\obj\Debug\Col_With_Largest_Sum.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ellio\Documents\edabit\Col_With_Largest_Sum\Col_With_Largest_Sum\obj\Debug\Col_With_Largest_Sum.Resources.resources
+C:\Users\ellio\Documents\edabit\Col_With_Largest_Sum\Col_With_Largest_Sum\obj\Debug\Col_With_Largest_Sum.vbproj.GenerateResource.cache
+C:\Users\ellio\Documents\edabit\Col_With_Largest_Sum\Col_With_Largest_Sum\obj\Debug\Col_With_Largest_Sum.vbproj.CoreCompileInputs.cache
+C:\Users\ellio\Documents\edabit\Col_With_Largest_Sum\Col_With_Largest_Sum\obj\Debug\Col_With_Largest_Sum.exe
+C:\Users\ellio\Documents\edabit\Col_With_Largest_Sum\Col_With_Largest_Sum\obj\Debug\Col_With_Largest_Sum.xml
+C:\Users\ellio\Documents\edabit\Col_With_Largest_Sum\Col_With_Largest_Sum\obj\Debug\Col_With_Largest_Sum.pdb
